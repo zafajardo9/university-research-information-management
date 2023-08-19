@@ -4,3 +4,9 @@ psycopg2
 psycopg2-binary
 flask-sqlalchemy
 gunicorn
+email_validator
+flask_login 
+flask_bcrypt 
+flask_wtf 
+wtforms 
+email_validator
